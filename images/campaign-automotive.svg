@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="t d">
+<title id="t">Automotive campaign artwork</title><desc id="d">A restrained automotive campaign composition with a monochrome vehicle silhouette.</desc>
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#d5d8dc"/><stop offset="1" stop-color="#8994a0"/></linearGradient></defs>
+<rect width="1200" height="900" fill="url(#g)"/><circle cx="925" cy="170" r="275" fill="#fff" fill-opacity=".24"/>
+<text x="72" y="166" fill="#17191c" font-family="Georgia,serif" font-size="92">Drive</text><text x="72" y="260" fill="#17191c" font-family="Georgia,serif" font-size="92" font-style="italic">forward.</text>
+<path d="M165 610h895l-87-152c-26-45-68-70-123-78l-348-49c-58-8-106 9-147 54L280 500h-87c-36 0-58 21-58 57v34c0 12 11 19 30 19Z" fill="#171a1d"/>
+<circle cx="355" cy="624" r="82" fill="#171a1d" stroke="#eceeed" stroke-width="18"/><circle cx="889" cy="624" r="82" fill="#171a1d" stroke="#eceeed" stroke-width="18"/>
+<path d="M0 760h1200" stroke="#fff" stroke-opacity=".6" stroke-width="2"/><text x="72" y="830" fill="#171a1d" font-family="Arial,sans-serif" font-size="23" letter-spacing="9">AUTOMOTIVE CAMPAIGN</text>
+</svg>

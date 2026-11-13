@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="t d">
+<title id="t">Coffee and lifestyle campaign artwork</title><desc id="d">A warm monochrome coffee cup composition for social media content.</desc>
+<defs><linearGradient id="g" x2="0" y2="1"><stop stop-color="#e4ded5"/><stop offset="1" stop-color="#a99b8d"/></linearGradient></defs>
+<rect width="1200" height="900" fill="url(#g)"/><circle cx="850" cy="445" r="300" fill="#f5f1ea" fill-opacity=".25"/>
+<text x="72" y="175" fill="#17191c" font-family="Georgia,serif" font-size="98">A little</text><text x="72" y="275" fill="#17191c" font-family="Georgia,serif" font-size="98" font-style="italic">pause.</text>
+<ellipse cx="795" cy="695" rx="300" ry="52" fill="#34302c" fill-opacity=".22"/><rect x="640" y="280" width="300" height="390" rx="52" fill="#eee8df" stroke="#302d2a" stroke-width="18"/><path d="M940 385h64c130 0 126 190 0 190h-64" fill="none" stroke="#302d2a" stroke-width="35"/><path d="M720 250c-42-56 46-68 3-126m120 126c-42-56 46-68 3-126" fill="none" stroke="#f7f4ee" stroke-width="13" stroke-linecap="round"/>
+<path d="M0 760h1200" stroke="#fff" stroke-opacity=".55" stroke-width="2"/><text x="72" y="830" fill="#17191c" font-family="Arial,sans-serif" font-size="23" letter-spacing="9">COFFEE &amp; LIFESTYLE</text>
+</svg>
